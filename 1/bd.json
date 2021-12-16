@@ -1,0 +1,103 @@
+{
+  "Paises": [
+    {
+      "id": 1,
+      "nombre": "Mexico",
+      "habitantes": "8000000",
+      "tamaño": "400 kl2",
+      "estados": "442",
+      "capital": "CDMX"
+    },
+    {
+      "nombre": "Brazil",
+      "id": 2,
+      "habitantes": "8000000",
+      "tamaño": "400 kl2",
+      "estados": "44",
+      "capital": "CDMX"
+    },
+    {
+      "id": 3,
+      "nombre": "colombia",
+      "habitantes": "8000000",
+      "tamaño": "400 kl2",
+      "estados": "44",
+      "capital": "CDMX"
+    },
+    {
+      "id": 4,
+      "nombre": "argentina",
+      "habitantes": "8000000",
+      "tamaño": "400 kl2",
+      "estados": "44",
+      "capital": "CDMX"
+    },
+    {
+      "id": 5,
+      "nombre": "chile",
+      "habitantes": "8000000",
+      "tamaño": "400 kl2",
+      "estados": "44",
+      "capital": "CDMX"
+    },
+    {
+      "id": 6,
+      "nombre": "estados unidos uno",
+      "habitantes": "12312334",
+      "tamaño": "823456 km2",
+      "estados": "442123",
+      "capital": "michigan"
+    }
+  ],
+  "Usuario": [
+    {
+      "id": 1,
+      "nombre": "juan ticorralco",
+      "email": "juanticorralco@gmail.com",
+      "password": "admin",
+      "usuario": "juan1"
+    },
+    {
+      "id": 2,
+      "nombre": "elizabeth hernandez",
+      "email": "eli@gmail.com",
+      "password": "admin",
+      "usuario": "Eli"
+    },
+    {
+      "usuario": "juan1",
+      "nombre": "juan ticorral",
+      "email": "juanticorralco@gmail.com",
+      "password": "RTRclika14",
+      "id": 3
+    },
+    {
+      "usuario": "juan2",
+      "nombre": "pepe ",
+      "email": "ros@gmail.com",
+      "password": "RTRclika14",
+      "id": 4
+    },
+    {
+      "usuario": "beli2",
+      "nombre": "jose",
+      "email": "juanticorralco@gmail.com",
+      "password": "CLISdkdlksd12",
+      "id": 5
+    },
+    {
+      "usuario": "juan1",
+      "nombre": "sdsd",
+      "email": "juanticorralco@gmail.com",
+      "password": "SDER12433udjsi",
+      "id": 6
+    },
+    {
+      "usuario": "juan1",
+      "nombre": "juan ticorral",
+      "email": "juanticorralco2@gmail.com",
+      "password": "RTRclika14",
+      "id": 7
+    }
+  ]
+}
